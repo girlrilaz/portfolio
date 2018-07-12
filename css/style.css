@@ -260,10 +260,10 @@ button:focus,
     top                 : 0;
     left                : 0;
     z-index             : -1;
-    width               : 100%;
+    width               : 50%;
     height              : 100%;
     background-image    : url(../img/img-profile.jpg);
-    background-size     : 300px 100px;
+    background-size     : cover;
     background-position : center;
     }
 
@@ -275,10 +275,10 @@ button:focus,
     right      : 0;
     bottom     : 0;
     background : linear-gradient(
-            -30deg,
+            -0deg,
             rgba(42, 84, 245, 0.5) 0%,
             rgba(42, 84, 245, 0.5) 10%,
-            transparent 60%,
+            transparent 80%,
             transparent 100%
     );
 
