@@ -1,13 +1,13 @@
-#### Nor Fazlina Raymond Github Page
+### Nor Fazlina Raymond Github Page
 
 - Online Resume
-- Repository
+- Repositories
 
-##### Powered By
+#### Powered By
 
 - Github
 - Jekyll
 
-##### Designs
+#### Designs
 
 - UiCookies
