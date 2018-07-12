@@ -262,7 +262,7 @@ button:focus,
     z-index             : -1;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../img/img-profile.jpg);
+    background-image    : url(../img/img-profile2.jpg);
     background-size     : cover;
     background-position : center;
     }
@@ -282,18 +282,6 @@ button:focus,
             transparent 100%
     );
 
-    }
-
-.header .profile-img2 {
-    position            : absolute;
-    top                 : 0;
-    left                : 0;
-    z-index             : -1;
-    width               : 100%;
-    height              : 100%;
-    background-image    : url(../img/img-profile2.jpg);
-    background-size     : cover;
-    background-position : center;
     }
 
 .header .content {
