@@ -3,11 +3,11 @@
 - Online Resume
 - Repositories
 
-#### Powered By
+#### Hosted By
 
 - Github
 - Jekyll
 
 #### Designs
 
-- UiCookies
+- ThemeRegion
