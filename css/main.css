@@ -570,21 +570,25 @@ ul.sub-menu {
     font-weight: 700;
     color: #f7941d;
     line-height: 62px;
+	display: inline-block;
 	vertical-align: middle;
 }
 
 .achievement-info .counter1 {
     color: #873e95;
+	display: inline-block;
 	vertical-align: middle;
 }
 
 .achievement-info .counter2 {
     color: #3c70b4;
+	display: inline-block;
 	vertical-align: middle;
 }
 
 .achievement-info .counter3 {
     color: #87c05e;
+	display: inline-block;
 	vertical-align: middle;
 }
 
