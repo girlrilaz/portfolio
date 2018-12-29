@@ -556,7 +556,7 @@ ul.sub-menu {
 }
 
 .achievement li {
-    float: left;
+    float: center;
 }
 
 .achievement li+li {
