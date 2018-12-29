@@ -564,6 +564,7 @@ ul.sub-menu {
 
 .achievement li+li {
     margin-left: 30px;
+	vertical-align: middle;
 }
 
 .achievement-info .counter {
