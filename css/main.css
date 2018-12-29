@@ -572,6 +572,7 @@ ul.sub-menu {
     line-height: 62px;
 	display: inline-block;
 	vertical-align: middle;
+	text-align: center;
 }
 
 .achievement-info .counter1 {
