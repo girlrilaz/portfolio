@@ -556,7 +556,7 @@ ul.sub-menu {
 }
 
 .achievement li {
-    float: center;
+    float: left;
 }
 
 .achievement li+li {
@@ -568,6 +568,7 @@ ul.sub-menu {
     font-weight: 700;
     color: #f7941d;
     line-height: 62px;
+	text-align: center;
 }
 
 .achievement-info .counter1 {
