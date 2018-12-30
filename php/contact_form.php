@@ -1,9 +1,8 @@
 <?php
-if(isset($_POST['email'])) {
+if(isset($_POST['submit'])) {
      
     // CHANGE THE TWO LINES BELOW
-    $email_to = "norfazlinahamdan@gmail.com";
-     
+    $email_to = "norfazlinahamdan@gmail.com";     
     $email_subject = "Message from your Github Page";
      
      

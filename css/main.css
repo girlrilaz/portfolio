@@ -89,7 +89,7 @@ a:focus, button:focus, .btn:focus,
 }
 
 .bg-color {
-    background-color: #f9f9f9;
+    background-color: #ffffff; 
     position: relative;
 }
 
@@ -672,7 +672,7 @@ ul.sub-menu {
 }
 
 .language-skill {
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .language-skill canvas {
@@ -727,7 +727,7 @@ ul.sub-menu {
     font-size: 14px;
     line-height: 24px;
     color: #2d3038;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 	text-align: justify;
 	text-justify: inter-word;
 }
