@@ -449,7 +449,7 @@ ul.sub-menu {
 }
 
 .home-banner-one .banner-content {
-    background-image: url(../images/bg/banner.jpg);
+    background-image: url(../online-resume-1/images/bg/banner.jpg);
     background-color: #e7e7e7;
     position: relative;
     background-position: center;
@@ -457,7 +457,7 @@ ul.sub-menu {
 }
 
 .home-two #home-banner {
-    background-image: url(../images/bg/2.png);
+    background-image: url(../online-resume-1/images/bg/2.png);
     background-repeat: no-repeat;
     background-position: right;
     background-size: contain;
@@ -1603,8 +1603,8 @@ a, #contact-section li a i:hover,
 
 @font-face {
     font-family: 'rookies-showtimesregular';
-    src: url('../fonts/rookies_showtimes-webfont.woff2') format('woff2'),
-         url('../fonts/rookies_showtimes-webfont.woff') format('woff');
+    src: url('../online-resume-1/fonts/rookies_showtimes-webfont.woff2') format('woff2'),
+         url('../online-resume-1/fonts/rookies_showtimes-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
