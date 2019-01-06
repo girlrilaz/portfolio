@@ -1,6 +1,6 @@
 ### Nor Fazlina Raymond Github Page
 
-- Online Resume Version 1
+- Online Resume Version 2
 - Repositories
 
 #### Hosted By
